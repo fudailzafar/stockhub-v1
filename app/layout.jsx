@@ -26,7 +26,7 @@ export const metadata = {
     siteName: "StockHub",
     images: [
       {
-        url: "https://stockhub.fun/banner.png",
+        url: "https://stockhub.fun/og-image.png",
         width: 1200,
         height: 630,
         alt: "StockHub Logo and Tagline",
@@ -40,7 +40,7 @@ export const metadata = {
     title: "StockHub | Your one-stop guide to learn about finance!",
     description:
       "People think that investing in stock markets is risky, deadly, and what not! But StockHub is here to teach you how to buy the castle you always wanted! Welcome to the MoneyLand!",
-    images: ["https://stockhub.fun/banner.png"],
+    images: ["https://stockhub.fun/og-image.png"],
   },
   alternates: {
     canonical: "https://stockhub.fun",
