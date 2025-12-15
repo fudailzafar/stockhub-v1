@@ -7,8 +7,8 @@ import Link from "next/link";
 import { useTheme } from "next-themes";
 import { AnimatePresence, motion } from "framer-motion";
 import { FiAlertCircle, FiArrowRight } from "react-icons/fi";
-import { MorphingText } from "./morphing-text";
-import Particles from "./particles";
+import { MorphingText } from "./MorphingText";
+import Particles from "./Particles";
 import { ArrowRight } from "lucide-react";
 import Image from "next/image";
 

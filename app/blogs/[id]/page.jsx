@@ -6,7 +6,7 @@ import axios from "axios";
 import Image from "next/image";
 import Link from "next/link";
 import React, { useEffect, useState } from "react";
-import Particles from "@/Components/particles";
+import Particles from "@/components/Particles";
 import { useTheme } from "next-themes";
 import { FiArrowRight } from "react-icons/fi";
 
